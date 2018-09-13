@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  23 MAY 2018 09:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2018.4.16)  11 SEP 2018 10:02
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -11,8 +11,8 @@ Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
 Document Class: resume 2010/07/10 v0.9 Resume class
 (/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count80
 \c@section=\count81
@@ -72,6 +72,10 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen112
 \Gm@dimlist=\toks16
 )
+
+LaTeX Warning: Unused global option(s):
+    [10.5pt].
+
 (./shameel_arafin_resume_long.aux)
 \openout1 = `shameel_arafin_resume_long.aux'.
 
@@ -107,12 +111,12 @@ LaTeX Font Info:    ... okay on input line 32.
 * \topmargin=-65.90756pt
 * \headheight=12.0pt
 * \headsep=25.0pt
-* \topskip=11.0pt
+* \topskip=10.0pt
 * \footskip=30.0pt
-* \marginparwidth=59.0pt
-* \marginparsep=10.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
 * \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
 * \hoffset=0.0pt
 * \voffset=0.0pt
 * \mag=1000
@@ -123,14 +127,18 @@ LaTeX Font Info:    ... okay on input line 32.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 32.
+(Font)              <7> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 32.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 32.
+(Font)              <5> on input line 32.
 
 Overfull \hbox (30.0pt too wide) in paragraph at lines 32--32
 [] 
+ []
+
+
+Overfull \hbox (3.97205pt too wide) in paragraph at lines 49--50
+[]\OT1/cmr/m/n/10 Led en-gi-neer-ing team for News ver-ti-cal, re-spon-si-ble f
+or all tech-nol-ogy as-pects of time.com, for-tune.com, money.com,
  []
 
 [1
@@ -142,20 +150,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 123--125
 
 [2] (./shameel_arafin_resume_long.aux) ) 
 Here is how much of TeX's memory you used:
- 883 strings out of 492649
- 12145 string characters out of 6129622
- 82399 words of memory out of 5000000
- 4810 multiletter control sequences out of 15000+600000
- 7639 words of font info for 27 fonts, out of 8000000 for 9000
+ 868 strings out of 492649
+ 11967 string characters out of 6129622
+ 82390 words of memory out of 5000000
+ 4801 multiletter control sequences out of 15000+600000
+ 4900 words of font info for 18 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 27i,6n,21p,266b,237s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,6n,21p,266b,209s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2018/texmf-dist/fon
 ts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2018/texmf-dist/font
 s/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2018/texmf-dist/fonts
 /type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2018/texmf-dist/fonts/t
 ype1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/texmf-dist/fonts/ty
 pe1/public/amsfonts/cm/cmti10.pfb>
-Output written on shameel_arafin_resume_long.pdf (2 pages, 81481 bytes).
+Output written on shameel_arafin_resume_long.pdf (2 pages, 81448 bytes).
 PDF statistics:
  31 PDF objects out of 1000 (max. 8388607)
  21 compressed objects within 1 object stream
