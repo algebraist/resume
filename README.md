@@ -8,4 +8,4 @@ There are long and short versions of my executive and technical resumés.
 
 ## Technical
 - [Long](./technical/long/shameel_arafin_technical_resume_long.pdf)
-- [Short](./technical/short/shameel_arafin_technical_resume_long.pdf)
+- [Short](./technical/short/shameel_arafin_technical_resume_short.pdf)
