@@ -3,5 +3,5 @@
 .DS_Store
 *.log
 *.out
-/shameel-arafin-resume.sublime-project
-/shameel-arafin-resume.sublime-workspace
+*.sublime-project
+*.sublime-workspace
