@@ -3,6 +3,7 @@ jobs:
    build:
      docker:
        - image: koppor/texlive
+     working_directory: ~/resume
      steps:
        - checkout
-       - run: latexmk -pdf executive/short/shameel_arafin_executive_resume_short.tex
+       - run: latexmk -cd -pdf executive/short/shameel_arafin_executive_resume_short.tex
