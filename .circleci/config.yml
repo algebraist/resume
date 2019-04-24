@@ -1,10 +1,8 @@
 version: 2
 jobs:
-  build:
-    docker:
-      - image: circleci/node:4.8.2
-
-    steps:
-      - checkout
-
-      - run: echo "hello world" # run the `echo` command
+   build:
+     docker:
+       - image: koppor/texlive
+     steps:
+       - checkout
+       - run: latexmk latexmk -pdf resume/executive/short/shameel_arafin_executive_resume_short.tex
