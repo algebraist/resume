@@ -5,4 +5,4 @@ jobs:
        - image: koppor/texlive
      steps:
        - checkout
-       - run: latexmk latexmk -pdf resume/executive/short/shameel_arafin_executive_resume_short.tex
+       - run: latexmk -pdf resume/executive/short/shameel_arafin_executive_resume_short.tex
