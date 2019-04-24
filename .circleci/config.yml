@@ -7,3 +7,6 @@ jobs:
      steps:
        - checkout
        - run: latexmk -cd -pdf executive/short/shameel_arafin_executive_resume_short.tex
+       - run: latexmk -cd -pdf executive/long/shameel_arafin_executive_resume_long.tex
+       - run: latexmk -cd -pdf technical/short/shameel_arafin_technical_resume_short.tex
+       - run: latexmk -cd -pdf technical/long/shameel_arafin_technical_resume_long.tex
