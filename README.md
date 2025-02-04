@@ -2,6 +2,7 @@
 
 There are long and short versions of my executive and technical resumés.
 
+They're out of date.
 ## Executive
 - [Long](./executive/long/shameel_arafin_executive_resume_long.pdf)
 - [Short](./executive/short/shameel_arafin_executive_resume_short.pdf)
